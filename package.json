@@ -1,0 +1,19 @@
+{
+  "name": "hack8all",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+     "start": "http-server"
+    
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kaboom": "^3000.1.17"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
