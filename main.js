@@ -780,7 +780,7 @@ function endSupermarketQuiz() {
     supermarketQuizCompleted = true;
   });
 }
-  x
+  
 
 
 
