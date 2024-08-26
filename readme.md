@@ -37,11 +37,12 @@ To get started with this project, follow these instructions:
 
 - Node.js (version 14 or later)
 - npm (Node Package Manager)
+- kaboom.js (js library for building games)
 
 ### Installation
 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
-   cd your-repository-name
+  [git clone https://github.com/your-username/your-repository-name.git
+   cd your-repository-name](https://github.com/nitininhouse/unheard_voices.git)
